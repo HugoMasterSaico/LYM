@@ -1,0 +1,24 @@
+{
+  "name": "lym",
+  "version": "0.0.0",
+  "description": "path de aprendizaje del  uso del driver de MongoDB para Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoMasterSaico/LYM.git"
+  },
+  "keywords": [
+    "Mongo",
+    "drive",
+    "node"
+  ],
+  "author": "electrorokers@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoMasterSaico/LYM/issues"
+  },
+  "homepage": "https://github.com/HugoMasterSaico/LYM#readme"
+}
